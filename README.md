@@ -1,6 +1,6 @@
 # AI Engineer Curriculum
 
-This curriculum gives you an overview of what you need to learn to build AI-powered apps. It is meant for aspiring AI engineers, as opposed to AI researchers. So this guide is does not teach you to build and train neural networks, but rather to evaluate, apply and productize pre-trained AI models.
+This curriculum gives you an overview of what you need to learn to build AI-powered apps. It is meant for aspiring AI engineers, as opposed to AI researchers. So this guide is does not teach you to build and train neural networks, but rather to evaluate and productize pre-trained AI models.
 
 ## AI Engineering basics
 * What is an AI model
