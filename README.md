@@ -18,7 +18,9 @@ This curriculum gives you an overview of what you need to learn to build AI-powe
 * Frequency & presence penalty
 
 ## Embeddings and Vector Databases
-* What is an embedding? What problem(s) do they solve?
+* What is a vector?
+* What is an embedding?
+* What problem(s) do embeddings solve?
 * How to create text embeddings
 * Text splitting
 * Vector databases (Chroma, Pinecone, Weaviate)
