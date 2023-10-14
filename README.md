@@ -3,11 +3,13 @@
 This curriculum gives you an overview of what you need to learn to build AI-powered apps. It is meant for aspiring AI engineers, as opposed to AI researchers. So this guide is does not teach you to build and train neural networks, but rather to evaluate and productize pre-trained AI models.
 
 ## AI Engineering basics
-* What is an AI model
+* What is an AI model?
 * What types of models exist?
+* What is a Large Language Model (LLM)?
 * How to evaluate different models
 * Tools and playgrounds for evaluating models
 * Inference
+* Understanding stateless models
 * System message
 * Fine-tuninig
 * Tokens
